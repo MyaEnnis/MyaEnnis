@@ -3,7 +3,7 @@
 
 °‧ 𓆝 𓆟 𓆞 ·｡
 - 🪸 I’m currently learning **C++, C# and mobile app development**
-- 🐳 Fun fact **I love marine animals like jellyfish, manta rays (or rays in general) and whales**
+- 🐳 **Fun fact** I love marine animals like jellyfish, manta rays (or rays in general) and whales
 
 𓆝 𓆟 𓆞 𓆝 𓆟
 
