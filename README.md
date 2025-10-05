@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mya</h1>
+<h1 align="center">🪼 Hi, I'm Mya 🪼</h1>
 <h3 align="center">CS Student</h3>
 
-- 🌱 I’m currently learning **C++, C# and mobile app development**
+°‧ 𓆝 𓆟 𓆞 ·｡
+- 🪸 I’m currently learning **C++, C# and mobile app development**
+- 🐳 Fun fact **I love marine animals like jellyfish, manta rays (or rays in general) and whales**
 
-
-
+𓆝 𓆟 𓆞 𓆝 𓆟
 
 
 <h3 align="left">Languages and Tools:</h3>
